@@ -1,0 +1,58 @@
+.Button {
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+}
+
+.bgBlack {
+  background-color: #000000;
+}
+
+.bgGreen {
+  background-color: #00ff66;
+}
+
+.bgRed {
+  background-color: #db4444;
+}
+
+.bgTransparent {
+  background-color: transparent;
+}
+
+.heightS {
+  height: 40px;
+}
+
+.heightM {
+  height: 44px;
+}
+
+.heightXL {
+  height: 56px;
+}
+
+.fontWhite {
+  color: #fafafa;
+}
+
+.fontBlack {
+  color: #000000;
+}
+
+.border {
+  border: 1px solid #06020280;
+}
+
+.borderRadiusFull {
+  border-radius: 4px;
+}
+
+.borderRadiusBottom {
+  border-radius: 0px 0px 4px 4px;
+}

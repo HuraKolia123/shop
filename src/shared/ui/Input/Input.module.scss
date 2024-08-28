@@ -1,0 +1,34 @@
+.Input {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.inputHeight24px {
+  height: 24px;
+}
+
+.inputHeight32px {
+  height: 36px;
+}
+
+.inputHeight40px {
+  height: 40px;
+}
+
+.inputHeight48px {
+  height: 48px;
+}
+
+.borderGray {
+  border: 1px solid #d2d1d6;
+}
+
+.borderBlack {
+  border: 1px solid #000000;
+}
+
+.inputHover:hover {
+  box-shadow: 2px 2px 2px 2px blue;
+}
